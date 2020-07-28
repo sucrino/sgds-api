@@ -16,7 +16,7 @@ API to explore SDG data reported by the UNSD agencies. </br>
     <div id="ember86" class="bs-row row ember-view">  <div id="ember88" class="col-sm-12 ember-view">  <div id="ember89" class="markdown-card ember-view">  
 
 <div class="container-fluid" id="catalog">
-<h1 class="sdg-section-title">Explore Geospatially Referenced Data by Goal</h1>
+<h1 class="sdg-section-title">Explore Data by Goal</h1>
 <p class="sdg-section-sub-text text-center">This section makes data of the global SDG Indicators database readily available as geospatial data web services, suitable for the production of maps and other data visualizations and analyses, and easy to download in multiple formats 
 </p>
 </div>
