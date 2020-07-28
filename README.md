@@ -17,7 +17,7 @@ API to explore SDG data reported by the UNSD agencies. </br>
 
 <div class="container-fluid" id="catalog">
 <h1 class="sdg-section-title">Explore Data by Goal</h1>
-<p class="sdg-section-sub-text text-center">This section makes data of the global SDG Indicators database readily available as geospatial data web services, suitable for the production of maps and other data visualizations and analyses, and easy to download in multiple formats 
+<p class="sdg-section-sub-text text-center">Global SDG Indicators database readily available as geospatial data web services, suitable for the production of maps and other data visualizations and analyses, and easy to download in multiple formats 
 </p>
 </div>
 <a href="http://www.sdg.org/search?collection=Dataset">Dataset</a> <br><br>
