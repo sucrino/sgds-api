@@ -21,4 +21,4 @@ API to explore SDG data reported by the UNSD agencies. </br>
 </p>
 </div>
 
-
+<img src="https://github.com/Praexor/SDGs-API/blob/master/sdgs.png">
